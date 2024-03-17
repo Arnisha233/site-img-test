@@ -3,6 +3,7 @@ import React from 'react';
 const Banner = () => {
     return (
         <div>
+            
             <div className='mx-auto bg-[url(../src/assets/images/Rectangle.png)] h-[600px]  bg-no-repeat bg-center p-32 rounded-[24px]'>
           <h2 className='lg:w-[800px] text-[#fff] mx-auto text-center lg:text-[50px] font-[700]'>Discover an exceptional cooking class tailored for you!</h2>
           <p className='lg:text-[18px] text-[#fff] text-center mx-auto font-[400] lg:w-[900px] mt-6'>This refreshing dish typically includes lean chicken breast, crisp vegetables like lettuce, cucumber, and tomatoes, all tossed in a tangy vinaigrette. While it's a delicious and satisfying option</p>
