@@ -11,7 +11,7 @@ function App() {
     <>
       <div className='container mx-auto mt-12'>
       
-        <Banner></Banner>
+      <Banner></Banner>
       
       </div>
 
@@ -20,6 +20,7 @@ function App() {
         <img src="./assets/images/Rectangle.png" alt="" />
       </div>
 
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente debitis eveniet vitae nisi rerum at praesentium cum eius consequuntur deleniti ut ipsum dolorum assumenda provident, optio doloribus laborum dolores ea!
 
     </>
   )
